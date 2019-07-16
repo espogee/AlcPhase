@@ -24,8 +24,8 @@ class ProfileActivity : AppCompatActivity() {
             "Ghana",
             "ansugeabour@gmail.com",
             "+233242253858",
-            "@Derick Ameyaw",
-            "Derrick Ameyaw Ansu G."
+            "@Derrick Ameyaw",
+            "Derrick Ameyaw Ansu-G."
         )
         tv_track?.text = arrayList[0]
         tv_country?.text = arrayList[1]
